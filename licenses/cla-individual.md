@@ -403,3 +403,5 @@ Nicolas Petton, @NicolasPetton, 2020/04/30
 Csaba Molnar, @mocsa, 2020/04/29
 
 Diep Pham, @favadi, 2020/07/30
+
+John Duhamel, @jjduhamel, 2020/08/10
